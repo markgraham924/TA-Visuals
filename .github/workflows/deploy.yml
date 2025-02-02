@@ -1,4 +1,4 @@
-name: Build and Run React App Locally
+name: Build and Deploy React App
 
 on:
   push:
@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  build-and-run:
+  build-and-deploy:
     runs-on: self-hosted
     env:
       CI: false
@@ -25,8 +25,9 @@ jobs:
       - name: Build project
         run: npm run build
 
-      - name: Run app in background
+      - name: Deploy updated build
         run: |
-          nohup serve -s build -l 3000 &
-          sleep 10
-          curl -I http://localhost:3000
+          # Copy new build files to the persistent build directory
+          cp -R build/* /home/actions/my-react-app/build/
+          # Restart the service so it serves the new version
+          sudo systemctl restart react-app.service
