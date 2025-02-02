@@ -1,0 +1,40 @@
+name: Deploy React App
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    env:
+      CI: false
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Build project
+        run: npm run build
+
+      # Optional: Archive or package the build folder if desired
+
+      - name: Deploy to Proxmox container via SSH
+        env:
+          SSH_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
+          REMOTE_HOST: ${{ secrets.REMOTE_HOST }}  # The container’s IP (on your internal network)
+          REMOTE_USER: ${{ secrets.REMOTE_USER }}
+        run: |
+          mkdir -p ~/.ssh
+          echo "$SSH_KEY" > ~/.ssh/id_rsa
+          chmod 600 ~/.ssh/id_rsa
+          # Use rsync (or scp) to transfer the build folder
+          rsync -avz -e "ssh -o StrictHostKeyChecking=no" build/ ${REMOTE_USER}@${REMOTE_HOST}:/home/${REMOTE_USER}/app/build/
