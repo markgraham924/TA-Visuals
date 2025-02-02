@@ -1,0 +1,622 @@
+[
+    {
+        "Time": "05:00:00",
+        "Sunday Demand": null,
+        "Monday Demand": 5.728125,
+        "Tuesday Demand": 5.434375,
+        "Wednesday Demand": 5.875,
+        "Thursday Demand": 5.875,
+        "Friday Demand": 6.903125,
+        "Saturday Demand": 6.16875
+    },
+    {
+        "Time": "05:15:00",
+        "Sunday Demand": null,
+        "Monday Demand": 5.434375,
+        "Tuesday Demand": 5.140625,
+        "Wednesday Demand": 5.875,
+        "Thursday Demand": 5.875,
+        "Friday Demand": 6.4625,
+        "Saturday Demand": 6.16875
+    },
+    {
+        "Time": "05:30:00",
+        "Sunday Demand": null,
+        "Monday Demand": 5.140625,
+        "Tuesday Demand": 5.140625,
+        "Wednesday Demand": 5.728125,
+        "Thursday Demand": 5.875,
+        "Friday Demand": 6.16875,
+        "Saturday Demand": 6.16875
+    },
+    {
+        "Time": "05:45:00",
+        "Sunday Demand": null,
+        "Monday Demand": 5.140625,
+        "Tuesday Demand": 5.140625,
+        "Wednesday Demand": 5.434375,
+        "Thursday Demand": 5.875,
+        "Friday Demand": 6.16875,
+        "Saturday Demand": 5.875
+    },
+    {
+        "Time": "06:00:00",
+        "Sunday Demand": null,
+        "Monday Demand": 5.875,
+        "Tuesday Demand": 5.875,
+        "Wednesday Demand": 6.021875,
+        "Thursday Demand": 6.75625,
+        "Friday Demand": 7.05,
+        "Saturday Demand": 7.05
+    },
+    {
+        "Time": "06:15:00",
+        "Sunday Demand": null,
+        "Monday Demand": 5.875,
+        "Tuesday Demand": 5.875,
+        "Wednesday Demand": 6.021875,
+        "Thursday Demand": 6.75625,
+        "Friday Demand": 7.05,
+        "Saturday Demand": 6.903125
+    },
+    {
+        "Time": "06:30:00",
+        "Sunday Demand": null,
+        "Monday Demand": 5.875,
+        "Tuesday Demand": 5.875,
+        "Wednesday Demand": 6.021875,
+        "Thursday Demand": 6.75625,
+        "Friday Demand": 7.05,
+        "Saturday Demand": 6.315625
+    },
+    {
+        "Time": "06:45:00",
+        "Sunday Demand": null,
+        "Monday Demand": 5.875,
+        "Tuesday Demand": 5.875,
+        "Wednesday Demand": 6.021875,
+        "Thursday Demand": 6.609375,
+        "Friday Demand": 7.05,
+        "Saturday Demand": 6.16875
+    },
+    {
+        "Time": "07:00:00",
+        "Sunday Demand": null,
+        "Monday Demand": 5.875,
+        "Tuesday Demand": 5.875,
+        "Wednesday Demand": 6.16875,
+        "Thursday Demand": 6.021875,
+        "Friday Demand": 7.05,
+        "Saturday Demand": 6.021875
+    },
+    {
+        "Time": "07:15:00",
+        "Sunday Demand": null,
+        "Monday Demand": 5.875,
+        "Tuesday Demand": 5.875,
+        "Wednesday Demand": 6.021875,
+        "Thursday Demand": 5.728125,
+        "Friday Demand": 7.05,
+        "Saturday Demand": 5.728125
+    },
+    {
+        "Time": "07:30:00",
+        "Sunday Demand": 5.2875,
+        "Monday Demand": 5.875,
+        "Tuesday Demand": 5.875,
+        "Wednesday Demand": 6.021875,
+        "Thursday Demand": 5.434375,
+        "Friday Demand": 6.903125,
+        "Saturday Demand": 5.728125
+    },
+    {
+        "Time": "07:45:00",
+        "Sunday Demand": 5.2875,
+        "Monday Demand": 5.875,
+        "Tuesday Demand": 5.875,
+        "Wednesday Demand": 5.875,
+        "Thursday Demand": 5.434375,
+        "Friday Demand": 6.75625,
+        "Saturday Demand": 5.58125
+    },
+    {
+        "Time": "08:00:00",
+        "Sunday Demand": 5.58125,
+        "Monday Demand": 7.05,
+        "Tuesday Demand": 7.93125,
+        "Wednesday Demand": 7.490625,
+        "Thursday Demand": 7.490625,
+        "Friday Demand": 8.665625,
+        "Saturday Demand": 7.490625
+    },
+    {
+        "Time": "08:15:00",
+        "Sunday Demand": 5.434375,
+        "Monday Demand": 6.75625,
+        "Tuesday Demand": 7.34375,
+        "Wednesday Demand": 7.196875,
+        "Thursday Demand": 7.196875,
+        "Friday Demand": 8.371875,
+        "Saturday Demand": 7.490625
+    },
+    {
+        "Time": "08:30:00",
+        "Sunday Demand": 6.903125,
+        "Monday Demand": 7.6375,
+        "Tuesday Demand": 7.784375,
+        "Wednesday Demand": 8.078125,
+        "Thursday Demand": 7.784375,
+        "Friday Demand": 9.69375,
+        "Saturday Demand": 8.371875
+    },
+    {
+        "Time": "08:45:00",
+        "Sunday Demand": 6.609375,
+        "Monday Demand": 7.490625,
+        "Tuesday Demand": 6.903125,
+        "Wednesday Demand": 8.078125,
+        "Thursday Demand": 7.34375,
+        "Friday Demand": 9.69375,
+        "Saturday Demand": 8.371875
+    },
+    {
+        "Time": "09:00:00",
+        "Sunday Demand": 6.4625,
+        "Monday Demand": 4.1125,
+        "Tuesday Demand": 2.9375,
+        "Wednesday Demand": 4.1125,
+        "Thursday Demand": 3.671875,
+        "Friday Demand": 4.259375,
+        "Saturday Demand": 3.525
+    },
+    {
+        "Time": "09:15:00",
+        "Sunday Demand": 5.728125,
+        "Monday Demand": 4.1125,
+        "Tuesday Demand": 2.9375,
+        "Wednesday Demand": 4.1125,
+        "Thursday Demand": 3.671875,
+        "Friday Demand": 4.259375,
+        "Saturday Demand": 3.525
+    },
+    {
+        "Time": "09:30:00",
+        "Sunday Demand": 6.4625,
+        "Monday Demand": 4.1125,
+        "Tuesday Demand": 2.9375,
+        "Wednesday Demand": 4.1125,
+        "Thursday Demand": 3.671875,
+        "Friday Demand": 4.259375,
+        "Saturday Demand": 3.525
+    },
+    {
+        "Time": "09:45:00",
+        "Sunday Demand": 6.16875,
+        "Monday Demand": 4.1125,
+        "Tuesday Demand": 2.9375,
+        "Wednesday Demand": 4.1125,
+        "Thursday Demand": 2.790625,
+        "Friday Demand": 4.40625,
+        "Saturday Demand": 5.2875
+    },
+    {
+        "Time": "10:00:00",
+        "Sunday Demand": 5.2875,
+        "Monday Demand": 3.81875,
+        "Tuesday Demand": 2.64375,
+        "Wednesday Demand": 3.81875,
+        "Thursday Demand": 2.64375,
+        "Friday Demand": 4.40625,
+        "Saturday Demand": 5.2875
+    },
+    {
+        "Time": "10:15:00",
+        "Sunday Demand": 5.2875,
+        "Monday Demand": 3.81875,
+        "Tuesday Demand": 3.525,
+        "Wednesday Demand": 3.81875,
+        "Thursday Demand": 2.64375,
+        "Friday Demand": 5.2875,
+        "Saturday Demand": 5.2875
+    },
+    {
+        "Time": "10:30:00",
+        "Sunday Demand": 7.05,
+        "Monday Demand": 4.7,
+        "Tuesday Demand": 4.40625,
+        "Wednesday Demand": 4.99375,
+        "Thursday Demand": 4.1125,
+        "Friday Demand": 5.2875,
+        "Saturday Demand": 5.2875
+    },
+    {
+        "Time": "10:45:00",
+        "Sunday Demand": 7.05,
+        "Monday Demand": 4.7,
+        "Tuesday Demand": 4.40625,
+        "Wednesday Demand": 4.99375,
+        "Thursday Demand": 4.553125,
+        "Friday Demand": 5.2875,
+        "Saturday Demand": 5.2875
+    },
+    {
+        "Time": "11:00:00",
+        "Sunday Demand": 7.196875,
+        "Monday Demand": 6.16875,
+        "Tuesday Demand": 4.99375,
+        "Wednesday Demand": 5.728125,
+        "Thursday Demand": 5.2875,
+        "Friday Demand": 5.2875,
+        "Saturday Demand": 6.16875
+    },
+    {
+        "Time": "11:15:00",
+        "Sunday Demand": 7.05,
+        "Monday Demand": 6.4625,
+        "Tuesday Demand": 5.875,
+        "Wednesday Demand": 6.315625,
+        "Thursday Demand": 5.2875,
+        "Friday Demand": 7.05,
+        "Saturday Demand": 6.16875
+    },
+    {
+        "Time": "11:30:00",
+        "Sunday Demand": 7.05,
+        "Monday Demand": 5.58125,
+        "Tuesday Demand": 6.16875,
+        "Wednesday Demand": 5.58125,
+        "Thursday Demand": 5.2875,
+        "Friday Demand": 6.16875,
+        "Saturday Demand": 6.16875
+    },
+    {
+        "Time": "11:45:00",
+        "Sunday Demand": 7.196875,
+        "Monday Demand": 5.58125,
+        "Tuesday Demand": 6.16875,
+        "Wednesday Demand": 5.58125,
+        "Thursday Demand": 5.58125,
+        "Friday Demand": 6.16875,
+        "Saturday Demand": 6.16875
+    },
+    {
+        "Time": "12:00:00",
+        "Sunday Demand": 7.196875,
+        "Monday Demand": 7.196875,
+        "Tuesday Demand": 8.078125,
+        "Wednesday Demand": 7.490625,
+        "Thursday Demand": 7.490625,
+        "Friday Demand": 8.8125,
+        "Saturday Demand": 8.078125
+    },
+    {
+        "Time": "12:15:00",
+        "Sunday Demand": 7.196875,
+        "Monday Demand": 8.078125,
+        "Tuesday Demand": 8.959375,
+        "Wednesday Demand": 8.665625,
+        "Thursday Demand": 8.959375,
+        "Friday Demand": 8.959375,
+        "Saturday Demand": 8.078125
+    },
+    {
+        "Time": "12:30:00",
+        "Sunday Demand": 7.05,
+        "Monday Demand": 8.078125,
+        "Tuesday Demand": 8.959375,
+        "Wednesday Demand": 8.959375,
+        "Thursday Demand": 8.959375,
+        "Friday Demand": 8.959375,
+        "Saturday Demand": 8.078125
+    },
+    {
+        "Time": "12:45:00",
+        "Sunday Demand": 7.05,
+        "Monday Demand": 8.078125,
+        "Tuesday Demand": 8.959375,
+        "Wednesday Demand": 8.959375,
+        "Thursday Demand": 8.959375,
+        "Friday Demand": 8.959375,
+        "Saturday Demand": 8.078125
+    },
+    {
+        "Time": "13:00:00",
+        "Sunday Demand": 7.05,
+        "Monday Demand": 8.078125,
+        "Tuesday Demand": 8.959375,
+        "Wednesday Demand": 8.665625,
+        "Thursday Demand": 8.959375,
+        "Friday Demand": 8.959375,
+        "Saturday Demand": 8.078125
+    },
+    {
+        "Time": "13:15:00",
+        "Sunday Demand": 7.05,
+        "Monday Demand": 8.078125,
+        "Tuesday Demand": 8.078125,
+        "Wednesday Demand": 8.078125,
+        "Thursday Demand": 8.959375,
+        "Friday Demand": 8.959375,
+        "Saturday Demand": 8.078125
+    },
+    {
+        "Time": "13:30:00",
+        "Sunday Demand": 6.903125,
+        "Monday Demand": 8.51875,
+        "Tuesday Demand": 8.665625,
+        "Wednesday Demand": 8.665625,
+        "Thursday Demand": 9.253125,
+        "Friday Demand": 9.546875,
+        "Saturday Demand": 8.665625
+    },
+    {
+        "Time": "13:45:00",
+        "Sunday Demand": 6.4625,
+        "Monday Demand": 7.6375,
+        "Tuesday Demand": 7.6375,
+        "Wednesday Demand": 7.784375,
+        "Thursday Demand": 7.784375,
+        "Friday Demand": 7.784375,
+        "Saturday Demand": 8.665625
+    },
+    {
+        "Time": "14:00:00",
+        "Sunday Demand": 6.16875,
+        "Monday Demand": 8.51875,
+        "Tuesday Demand": 8.51875,
+        "Wednesday Demand": 8.51875,
+        "Thursday Demand": 8.665625,
+        "Friday Demand": 8.665625,
+        "Saturday Demand": 9.546875
+    },
+    {
+        "Time": "14:15:00",
+        "Sunday Demand": 5.875,
+        "Monday Demand": 8.51875,
+        "Tuesday Demand": 8.51875,
+        "Wednesday Demand": 8.51875,
+        "Thursday Demand": 8.51875,
+        "Friday Demand": 8.665625,
+        "Saturday Demand": 9.4
+    },
+    {
+        "Time": "14:30:00",
+        "Sunday Demand": 6.16875,
+        "Monday Demand": 8.51875,
+        "Tuesday Demand": 8.51875,
+        "Wednesday Demand": 8.51875,
+        "Thursday Demand": 8.51875,
+        "Friday Demand": 8.665625,
+        "Saturday Demand": 9.4
+    },
+    {
+        "Time": "14:45:00",
+        "Sunday Demand": 7.05,
+        "Monday Demand": 8.225,
+        "Tuesday Demand": 8.51875,
+        "Wednesday Demand": 8.225,
+        "Thursday Demand": 8.51875,
+        "Friday Demand": 8.665625,
+        "Saturday Demand": 9.4
+    },
+    {
+        "Time": "15:00:00",
+        "Sunday Demand": 6.315625,
+        "Monday Demand": 6.16875,
+        "Tuesday Demand": 7.6375,
+        "Wednesday Demand": 6.903125,
+        "Thursday Demand": 7.784375,
+        "Friday Demand": 7.784375,
+        "Saturday Demand": 9.4
+    },
+    {
+        "Time": "15:15:00",
+        "Sunday Demand": 6.315625,
+        "Monday Demand": 5.728125,
+        "Tuesday Demand": 7.490625,
+        "Wednesday Demand": 5.875,
+        "Thursday Demand": 7.34375,
+        "Friday Demand": 7.784375,
+        "Saturday Demand": 9.4
+    },
+    {
+        "Time": "15:30:00",
+        "Sunday Demand": 6.315625,
+        "Monday Demand": 5.58125,
+        "Tuesday Demand": 6.75625,
+        "Wednesday Demand": 5.875,
+        "Thursday Demand": 6.315625,
+        "Friday Demand": 7.784375,
+        "Saturday Demand": 7.93125
+    },
+    {
+        "Time": "15:45:00",
+        "Sunday Demand": 6.609375,
+        "Monday Demand": 5.728125,
+        "Tuesday Demand": 4.7,
+        "Wednesday Demand": 5.728125,
+        "Thursday Demand": 6.021875,
+        "Friday Demand": 6.903125,
+        "Saturday Demand": 7.6375
+    },
+    {
+        "Time": "16:00:00",
+        "Sunday Demand": 8.371875,
+        "Monday Demand": 4.553125,
+        "Tuesday Demand": 4.553125,
+        "Wednesday Demand": 4.99375,
+        "Thursday Demand": 4.99375,
+        "Friday Demand": 5.875,
+        "Saturday Demand": 7.490625
+    },
+    {
+        "Time": "16:15:00",
+        "Sunday Demand": 8.371875,
+        "Monday Demand": 4.553125,
+        "Tuesday Demand": 4.553125,
+        "Wednesday Demand": 4.7,
+        "Thursday Demand": 4.846875,
+        "Friday Demand": 5.875,
+        "Saturday Demand": 7.490625
+    },
+    {
+        "Time": "16:30:00",
+        "Sunday Demand": 4.7,
+        "Monday Demand": 5.2875,
+        "Tuesday Demand": 5.434375,
+        "Wednesday Demand": 5.434375,
+        "Thursday Demand": 5.434375,
+        "Friday Demand": 6.75625,
+        "Saturday Demand": 7.93125
+    },
+    {
+        "Time": "16:45:00",
+        "Sunday Demand": 4.7,
+        "Monday Demand": 5.58125,
+        "Tuesday Demand": 5.728125,
+        "Wednesday Demand": 5.728125,
+        "Thursday Demand": 5.434375,
+        "Friday Demand": 6.903125,
+        "Saturday Demand": 8.078125
+    },
+    {
+        "Time": "17:00:00",
+        "Sunday Demand": 3.81875,
+        "Monday Demand": 5.875,
+        "Tuesday Demand": 6.021875,
+        "Wednesday Demand": 5.728125,
+        "Thursday Demand": 5.728125,
+        "Friday Demand": 6.75625,
+        "Saturday Demand": 7.784375
+    },
+    {
+        "Time": "17:15:00",
+        "Sunday Demand": 3.81875,
+        "Monday Demand": 5.728125,
+        "Tuesday Demand": 5.875,
+        "Wednesday Demand": 5.58125,
+        "Thursday Demand": 5.728125,
+        "Friday Demand": 7.05,
+        "Saturday Demand": 7.490625
+    },
+    {
+        "Time": "17:30:00",
+        "Sunday Demand": 3.81875,
+        "Monday Demand": 6.315625,
+        "Tuesday Demand": 6.16875,
+        "Wednesday Demand": 5.728125,
+        "Thursday Demand": 7.05,
+        "Friday Demand": 8.078125,
+        "Saturday Demand": 8.8125
+    },
+    {
+        "Time": "17:45:00",
+        "Sunday Demand": 4.1125,
+        "Monday Demand": 6.75625,
+        "Tuesday Demand": 6.75625,
+        "Wednesday Demand": 6.609375,
+        "Thursday Demand": 6.609375,
+        "Friday Demand": 7.34375,
+        "Saturday Demand": 8.8125
+    },
+    {
+        "Time": "18:00:00",
+        "Sunday Demand": 4.99375,
+        "Monday Demand": 7.93125,
+        "Tuesday Demand": 7.93125,
+        "Wednesday Demand": 7.784375,
+        "Thursday Demand": 7.784375,
+        "Friday Demand": 7.784375,
+        "Saturday Demand": 8.665625
+    },
+    {
+        "Time": "18:15:00",
+        "Sunday Demand": 4.99375,
+        "Monday Demand": 7.93125,
+        "Tuesday Demand": 7.93125,
+        "Wednesday Demand": 7.784375,
+        "Thursday Demand": 7.784375,
+        "Friday Demand": 7.784375,
+        "Saturday Demand": 8.665625
+    },
+    {
+        "Time": "18:30:00",
+        "Sunday Demand": 0.5875,
+        "Monday Demand": 5.140625,
+        "Tuesday Demand": 5.140625,
+        "Wednesday Demand": 4.99375,
+        "Thursday Demand": 4.99375,
+        "Friday Demand": 4.99375,
+        "Saturday Demand": 5.875
+    },
+    {
+        "Time": "18:45:00",
+        "Sunday Demand": 0.5875,
+        "Monday Demand": 5.434375,
+        "Tuesday Demand": 5.140625,
+        "Wednesday Demand": 4.99375,
+        "Thursday Demand": 5.140625,
+        "Friday Demand": 4.99375,
+        "Saturday Demand": 4.99375
+    },
+    {
+        "Time": "19:00:00",
+        "Sunday Demand": null,
+        "Monday Demand": 4.40625,
+        "Tuesday Demand": 3.671875,
+        "Wednesday Demand": 3.671875,
+        "Thursday Demand": 3.81875,
+        "Friday Demand": 3.671875,
+        "Saturday Demand": 3.965625
+    },
+    {
+        "Time": "19:15:00",
+        "Sunday Demand": null,
+        "Monday Demand": 4.40625,
+        "Tuesday Demand": 3.965625,
+        "Wednesday Demand": 3.81875,
+        "Thursday Demand": 4.40625,
+        "Friday Demand": 4.1125,
+        "Saturday Demand": 3.965625
+    },
+    {
+        "Time": "19:30:00",
+        "Sunday Demand": null,
+        "Monday Demand": 4.40625,
+        "Tuesday Demand": 4.40625,
+        "Wednesday Demand": 4.40625,
+        "Thursday Demand": 4.40625,
+        "Friday Demand": 4.40625,
+        "Saturday Demand": 3.671875
+    },
+    {
+        "Time": "19:45:00",
+        "Sunday Demand": null,
+        "Monday Demand": 4.40625,
+        "Tuesday Demand": 4.40625,
+        "Wednesday Demand": 4.40625,
+        "Thursday Demand": 4.40625,
+        "Friday Demand": 4.40625,
+        "Saturday Demand": 3.81875
+    },
+    {
+        "Time": "20:00:00",
+        "Sunday Demand": null,
+        "Monday Demand": 4.40625,
+        "Tuesday Demand": 4.40625,
+        "Wednesday Demand": 4.40625,
+        "Thursday Demand": 4.40625,
+        "Friday Demand": 4.40625,
+        "Saturday Demand": 4.259375
+    },
+    {
+        "Time": "20:15:00",
+        "Sunday Demand": null,
+        "Monday Demand": 4.40625,
+        "Tuesday Demand": 4.40625,
+        "Wednesday Demand": 4.40625,
+        "Thursday Demand": 4.40625,
+        "Friday Demand": 4.40625,
+        "Saturday Demand": 4.40625
+    }
+]
