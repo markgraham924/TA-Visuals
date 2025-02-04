@@ -127,7 +127,7 @@ const StaffingChart = () => {
     <div style={{ padding: "20px" }}>
       <h1>Staffing Chart</h1>
       <div style={{ marginBottom: "20px" }}>
-        <button onClick={generateChartData}>Generate Chart Data</button>
+        <button onClick={generateChartData}>Generate Chart Data Hello World</button>
       </div>
   
       {/* Day Selection */}
