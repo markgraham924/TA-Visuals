@@ -265,28 +265,20 @@
         "Colleague": "Crabb, Ella",
         "Line Manager": "Caroline Studley",
         "Schedule": {
-            "Sun 1": {
-                "start": "08:00",
-                "end": "12:00"
-            },
-            "Thurs 1": {
-                "start": "12:30",
+            "Wed 1": {
+                "start": "16:30",
                 "end": "20:30"
             },
-            "Fri 1": {
-                "start": "15:45",
+            "Sat 1": {
+                "start": "16:30",
                 "end": "20:30"
             },
-            "Sun 2": {
-                "start": "08:00",
-                "end": "12:00"
-            },
-            "Thurs 2": {
-                "start": "12:30",
+            "Wed 2": {
+                "start": "16:30",
                 "end": "20:30"
             },
-            "Fri 2": {
-                "start": "15:45",
+            "Sat 2": {
+                "start": "16:30",
                 "end": "20:30"
             }
         }
@@ -416,44 +408,6 @@
             "Wed 2": {
                 "start": "15:00",
                 "end": "20:30"
-            }
-        }
-    },
-    {
-        "Colleague": "Gregory, Catriona",
-        "Line Manager": "Caroline Studley",
-        "Schedule": {
-            "Mon 1": {
-                "start": "05:00",
-                "end": "11:00"
-            },
-            "Tues 1": {
-                "start": "14:30",
-                "end": "20:30"
-            },
-            "Fri 1": {
-                "start": "05:00",
-                "end": "11:00"
-            },
-            "Sat 1": {
-                "start": "05:00",
-                "end": "09:00"
-            },
-            "Mon 2": {
-                "start": "05:00",
-                "end": "11:00"
-            },
-            "Tues 2": {
-                "start": "14:30",
-                "end": "20:30"
-            },
-            "Fri 2": {
-                "start": "05:00",
-                "end": "11:00"
-            },
-            "Sat 2": {
-                "start": "05:00",
-                "end": "09:00"
             }
         }
     },
@@ -602,52 +556,6 @@
             "Sat 2": {
                 "start": "05:00",
                 "end": "14:15"
-            }
-        }
-    },
-    {
-        "Colleague": "Marsden, Hannah",
-        "Line Manager": "Caroline Studley",
-        "Schedule": {
-            "Sun 1": {
-                "start": "08:30",
-                "end": "12:30"
-            },
-            "Mon 1": {
-                "start": "12:30",
-                "end": "20:30"
-            },
-            "Tues 1": {
-                "start": "12:30",
-                "end": "20:30"
-            },
-            "Fri 1": {
-                "start": "12:30",
-                "end": "20:30"
-            },
-            "Sat 1": {
-                "start": "16:30",
-                "end": "20:30"
-            },
-            "Sun 2": {
-                "start": "08:30",
-                "end": "12:30"
-            },
-            "Mon 2": {
-                "start": "12:30",
-                "end": "20:30"
-            },
-            "Tues 2": {
-                "start": "12:30",
-                "end": "20:30"
-            },
-            "Fri 2": {
-                "start": "12:30",
-                "end": "20:30"
-            },
-            "Sat 2": {
-                "start": "16:30",
-                "end": "20:30"
             }
         }
     },
@@ -825,7 +733,7 @@
                 "start": "05:00",
                 "end": "15:00"
             },
-            "Fri 1": {
+            "Wed 1": {
                 "start": "05:00",
                 "end": "15:45"
             },
@@ -833,7 +741,7 @@
                 "start": "05:00",
                 "end": "15:00"
             },
-            "Mon 2": {
+            "Sun 2": {
                 "start": "05:00",
                 "end": "15:00"
             },
@@ -846,8 +754,8 @@
                 "end": "15:45"
             },
             "Thurs 2": {
-                "start": "10:30",
-                "end": "20:30"
+                "start": "05:00",
+                "end": "15:00"
             }
         }
     },
@@ -950,44 +858,6 @@
         }
     },
     {
-        "Colleague": "Taylor, Isabelle",
-        "Line Manager": "Mark Graham",
-        "Schedule": {
-            "Mon 1": {
-                "start": "05:00",
-                "end": "13:00"
-            },
-            "Tues 1": {
-                "start": "05:00",
-                "end": "13:00"
-            },
-            "Fri 1": {
-                "start": "12:30",
-                "end": "20:30"
-            },
-            "Sat 1": {
-                "start": "16:30",
-                "end": "20:30"
-            },
-            "Mon 2": {
-                "start": "05:00",
-                "end": "13:00"
-            },
-            "Tues 2": {
-                "start": "05:00",
-                "end": "13:00"
-            },
-            "Fri 2": {
-                "start": "12:30",
-                "end": "20:30"
-            },
-            "Sat 2": {
-                "start": "16:30",
-                "end": "20:30"
-            }
-        }
-    },
-    {
         "Colleague": "Wilkins, Ellie",
         "Line Manager": "Mark Graham",
         "Schedule": {
@@ -1002,44 +872,6 @@
         }
     },
     {
-        "Colleague": "Williamson, Eve",
-        "Line Manager": "Caroline Studley",
-        "Schedule": {
-            "Mon 1": {
-                "start": "10:30",
-                "end": "18:30"
-            },
-            "Tues 1": {
-                "start": "12:30",
-                "end": "20:30"
-            },
-            "Fri 1": {
-                "start": "12:30",
-                "end": "20:30"
-            },
-            "Sat 1": {
-                "start": "09:00",
-                "end": "17:00"
-            },
-            "Mon 2": {
-                "start": "10:30",
-                "end": "18:30"
-            },
-            "Tues 2": {
-                "start": "12:30",
-                "end": "20:30"
-            },
-            "Fri 2": {
-                "start": "12:30",
-                "end": "20:30"
-            },
-            "Sat 2": {
-                "start": "09:00",
-                "end": "17:00"
-            }
-        }
-    },
-    {
         "Colleague": "Wooding, Aimee",
         "Line Manager": "Mark Graham",
         "Schedule": {
@@ -1050,6 +882,52 @@
             "Sun 2": {
                 "start": "08:00",
                 "end": "16:45"
+            }
+        }
+    },
+    {
+        "Colleague": "Scholes, Samuel",
+        "Line Manager": "Amy Highham",
+        "Schedule": {
+            "Sun 1": {
+                "start": "10:30",
+                "end": "18:30"
+            },
+            "Tues 1": {
+                "start": "12:30",
+                "end": "20:30"
+            },
+            "Wed 1": {
+                "start": "12:30",
+                "end": "20:30"
+            },
+            "Thurs 1": {
+                "start": "12:30",
+                "end": "20:30"
+            },
+            "Fri 1": {
+                "start": "12:30",
+                "end": "20:30"
+            },
+            "Mon 2": {
+                "start": "12:30",
+                "end": "20:30"
+            },
+            "Tues 2": {
+                "start": "12:30",
+                "end": "20:30"
+            },
+            "Wed 2": {
+                "start": "12:30",
+                "end": "20:30"
+            },
+            "Fri 2": {
+                "start": "12:30",
+                "end": "20:30"
+            },
+            "Sat 2": {
+                "start": "12:30",
+                "end": "20:30"
             }
         }
     }
